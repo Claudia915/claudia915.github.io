@@ -1,6 +1,6 @@
 # claudia915.github.io
 
-# Heading 1
+# Digital Humanities Final Portfolio 
 
 Hello World!
 
