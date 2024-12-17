@@ -12,7 +12,7 @@ This is a link to my [State where I reflect on my experience at a Penn workshop]
 
 ## First Time Attending a Workshop in Philadelphia!
 
-## Onto What's Next 
+## Onto What's Next!
 
 This is a link to my [Statement where I look forward to next step](lookingforward.md)
 
