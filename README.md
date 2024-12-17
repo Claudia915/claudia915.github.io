@@ -4,6 +4,10 @@ Hello! This semester I took my first digital humanities course at Penn and learn
 
 ## Attending a Workshop at Penn
 
+A large component of this course included the requirement of attending a workshop at Penn. The purpose of this was to engage with digital humanities through an on-hands experience and learn about these opportunities on campus. 
+
+This is a link to my [State where I reflect on my experience at a Penn workshop](reflectionpenn.md) 
+
 ## Attending a Workshop in Philadelphia 
 
 This is a link to my [Statement where I look forward to next step](lookingforward.md)
