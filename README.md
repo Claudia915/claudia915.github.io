@@ -1,6 +1,6 @@
 # My Journey through my first DH class
 
-Hello! My name is Claudia Merchan and I am currently a sophomore in the College of Arts & Sciences majoring in Philosophy, Politics, and Economics. This semester I took my first digital humanities course at Penn and learned a whole new area of study. In this page I will go through my journey, projects, failures and successs throughout this course. Now having completed the course I will reflect on the skills and knowledge I am able to take with me and what I hope to do with them in the future. 
+Hello! My name is Claudia Merchan and I am currently a sophomore in the College of Arts & Sciences majoring in Philosophy, Politics, and Economics. Some background about myself is that I am from Hackensack, New Jersey and for most of my life I've always focused on taking the traditional humanities classes. When arriving to Penn rumors of how difficult most STEM courses are here, steered me away from taking courses that were outside of my comfort zone. This semester, though, in hopes of both fulfillling requirements and branching out, I took my first digital humanities course at Penn and learned a whole new area of study. In this page I will go through my journey, projects, failures and successs throughout this course. Now having completed the course I will reflect on the skills and knowledge I am able to take with me and what I hope to do with them in the future. 
 
 ## Reflecting on the projects I participated in 
 
