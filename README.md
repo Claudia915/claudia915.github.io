@@ -14,7 +14,7 @@ Here is a link to my [statement where I reflect on my experience at a Penn works
 
 Another large part of the hands-on component of this course was also branching outside of the Penn community and looking into the Philadelphia community for opportunities to engage with Digital Humanities as well. 
 
-Here is a link to my [state where I reflect on my experience at a Philadelphia workshop](reflectionphiladelphia.md)
+Here is a link to my [statement where I reflect on my experience at a Philadelphia workshop](reflectionphiladelphia.md)
 
 ## Onto What's Next!
 
