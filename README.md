@@ -8,16 +8,16 @@ Hello! This semester I took my first digital humanities course at Penn and learn
 
 A large component of this course included the requirement of attending a workshop at Penn. The purpose of this was to engage with digital humanities through an on-hands experience and learn about these opportunities on campus. 
 
-Here is a link to my [State where I reflect on my experience at a Penn workshop](reflectionpenn.md) 
+Here is a link to my [statement where I reflect on my experience at a Penn workshop](reflectionpenn.md) 
 
 ## First Time Attending a Workshop in Philadelphia!
 
-Here is a link to my [State where I reflect on my experience at a Philadelphia workshop](reflectionphiladelphia.md)
+Here is a link to my [state where I reflect on my experience at a Philadelphia workshop](reflectionphiladelphia.md)
 
 ## Onto What's Next!
 
-This is a link to my [Statement where I look forward to next step](lookingforward.md)
+This is a link to my [statement where I look forward to next step](lookingforward.md)
 
-This is a link to my [Printing in prisons project](https://printinginprisons.org/blog/merchanc/) 
+This is a link to my [printing in prisons project](https://printinginprisons.org/blog/merchanc/) 
 
 ![example image](example.jpg)
