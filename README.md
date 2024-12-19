@@ -30,3 +30,4 @@ Now that I have reached the end of this course and been able to reflect on some 
 
 This is a link to my [statement where I look forward to nexts steps following this course](lookingforward.md)
 
+![next image](next.png) 
