@@ -8,7 +8,7 @@ First I will walk through this course from beginning to end. I will start of fro
 
 Here is a link to my [statement where I reflect on my experience in this class](reflection.md) 
 
-![reflection] (reflection1.png) 
+![reflection](reflection1.png) 
 
 ## First Time Attending a Workshop at Penn!
 
