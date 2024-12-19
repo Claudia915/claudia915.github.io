@@ -18,6 +18,8 @@ Another large part of the hands-on component of this course was also branching o
 
 Here is a link to my [statement where I reflect on my experience at a Philadelphia workshop](reflectionphiladelphia.md)
 
+[iffybooks image](iffybooks.png) 
+
 ## Onto What's Next!
 
 This is a link to my [statement where I look forward to nexts steps following this course](lookingforward.md)
