@@ -20,8 +20,5 @@ Here is a link to my [statement where I reflect on my experience at a Philadelph
 
 ## Onto What's Next!
 
-This is a link to my [statement where I look forward to next step](lookingforward.md)
+This is a link to my [statement where I look forward to nexts steps following this course](lookingforward.md)
 
-This is a link to my [printing in prisons project](https://printinginprisons.org/blog/merchanc/) 
-
-![example image](example.jpg)
