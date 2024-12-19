@@ -8,6 +8,8 @@ First I will walk through this course from beginning to end. I will start of fro
 
 Here is a link to my [statement where I reflect on my experience in this class](reflection.md) 
 
+![reflection] (reflection1.png) 
+
 ## First Time Attending a Workshop at Penn!
 
 Now I will dive into a large component of this course which included the requirement of attending a workshop at Penn. The purpose of this was to engage with digital humanities through an on-hands experience and learn about these opportunities on campus. 
