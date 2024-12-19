@@ -12,13 +12,15 @@ A large component of this course included the requirement of attending a worksho
 
 Here is a link to my [statement where I reflect on my experience at a Penn workshop](reflectionpenn.md) 
 
+![EC Image](ecimage.png)
+
 ## First Time Attending a Workshop in Philadelphia!
 
 Another large part of the hands-on component of this course was also branching outside of the Penn community and looking into the Philadelphia community for opportunities to engage with Digital Humanities as well. 
 
 Here is a link to my [statement where I reflect on my experience at a Philadelphia workshop](reflectionphiladelphia.md)
 
-[iffybooks image](iffybooks.png) 
+![iffybooks image](iffybooks.png) 
 
 ## Onto What's Next!
 
