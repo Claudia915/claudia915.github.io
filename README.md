@@ -4,6 +4,8 @@ Hello! My name is Claudia Merchan and I am currently a sophomore in the College 
 
 ## Reflecting on the projects I participated in 
 
+Here is a link to my [statement where I reflect on my experience in this class](reflection.md) 
+
 ## First Time Attending a Workshop at Penn!
 
 A large component of this course included the requirement of attending a workshop at Penn. The purpose of this was to engage with digital humanities through an on-hands experience and learn about these opportunities on campus. 
