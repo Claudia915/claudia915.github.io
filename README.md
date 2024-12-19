@@ -4,11 +4,13 @@ Hello! My name is Claudia Merchan and I am currently a sophomore in the College 
 
 ## Reflecting on the projects I participated in 
 
+First I will walk through this course from beginning to end. I will start of from the first class trips up to the last ones and highlight what I learned along the way. I will also talk about how the themes in this course continued to be established through the projects that we completed. Finally, I will  share some of the most surpising things that I learned throughout this course and will also reflect on some of my strengths and weaknesses that allowed me to reach this point in my journey (the page your currently reading). 
+
 Here is a link to my [statement where I reflect on my experience in this class](reflection.md) 
 
 ## First Time Attending a Workshop at Penn!
 
-A large component of this course included the requirement of attending a workshop at Penn. The purpose of this was to engage with digital humanities through an on-hands experience and learn about these opportunities on campus. 
+Now I will dive into a large component of this course which included the requirement of attending a workshop at Penn. The purpose of this was to engage with digital humanities through an on-hands experience and learn about these opportunities on campus. 
 
 Here is a link to my [statement where I reflect on my experience at a Penn workshop](reflectionpenn.md) 
 
@@ -16,13 +18,15 @@ Here is a link to my [statement where I reflect on my experience at a Penn works
 
 ## First Time Attending a Workshop in Philadelphia!
 
-Another large part of the hands-on component of this course was also branching outside of the Penn community and looking into the Philadelphia community for opportunities to engage with Digital Humanities as well. 
+Next, I want to share another large part of the hands-on component of this course which was to branch outside of the Penn community and looking into the Philadelphia community for opportunities to engage with Digital Humanities as well. 
 
 Here is a link to my [statement where I reflect on my experience at a Philadelphia workshop](reflectionphiladelphia.md)
 
 ![iffybooks image](iffybooks.png) 
 
 ## Onto What's Next!
+
+Now that I have reached the end of this course and been able to reflect on some of the amazing opportunities I was able to experience I will talk about what I hope to do with the content that I learned. 
 
 This is a link to my [statement where I look forward to nexts steps following this course](lookingforward.md)
 
